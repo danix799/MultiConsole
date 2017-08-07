@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\bin\Debug\MultiConsole.exe.config
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\bin\Debug\MultiConsole.exe
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\bin\Debug\MultiConsole.pdb
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\obj\Debug\MultiConsole.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\obj\Debug\MultiConsole.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\obj\Debug\MultiConsole.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\obj\Debug\MultiConsole.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\obj\Debug\MultiConsole.exe
+c:\users\user\documents\visual studio 2012\Projects\MultiConsole\MultiConsole\obj\Debug\MultiConsole.pdb
